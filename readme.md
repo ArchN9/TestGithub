@@ -1,3 +1,5 @@
 Test Dummy file to Github
 
-Modified line from local 
+Merge conflict example
+
+New updated commit from dev to master
